@@ -13,4 +13,7 @@ basically we have created apps viz;
 9.weather forcast
 10.APOD viewer
 
+we can even deploy the apps using 'auto-py-to-exe'
+so , as a conclusion we can make certain apps and deploy them into usable tools .
+
 
